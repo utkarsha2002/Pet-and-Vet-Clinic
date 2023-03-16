@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88118521640",
+    "project_id": "pet-and-vet-clinic",
+    "storage_bucket": "pet-and-vet-clinic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88118521640:android:d574f081c835d06f66aa1d",
+        "android_client_info": {
+          "package_name": "com.example.petandvetclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88118521640-tjc7qj25mua927q3jtaa8qmq1agg82v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGNl-bA5mPAMoqb0S6329OlAigtQAV3-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88118521640-tjc7qj25mua927q3jtaa8qmq1agg82v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
